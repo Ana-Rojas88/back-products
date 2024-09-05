@@ -1,0 +1,143 @@
+[
+    {
+      "id": 1,
+      "title": "Camisa Casual Hombre",
+      "price": 29.99,
+      "description": "Camisa de algodón para hombre, ideal para ocasiones informales.",
+      "image": "https://i.pinimg.com/236x/5b/46/df/5b46dfb557bf3c56789db3748278f03f.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Zapatos Deportivos Mujer",
+      "price": 49.99,
+      "description": "Zapatos deportivos ligeros y cómodos para mujer, perfectos para correr.",
+      "image": "https://i.pinimg.com/236x/90/90/26/909026890d964b20ad683e0cc903bfbc.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Bolso de Mano",
+      "price": 39.99,
+      "description": "Bolso de mano de cuero sintético, elegante y espacioso.",
+      "image": "https://i.pinimg.com/236x/f5/8b/11/f58b113fba6d4cd0e83263363a274bdf.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Vestido Floral",
+      "price": 59.99,
+      "description": "Vestido con estampado floral, perfecto para ocasiones casuales.",
+      "image": "https://i.pinimg.com/236x/f4/0d/8c/f40d8c079a79772df440ef13f10bc8fd.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Botines de Cuero",
+      "price": 89.99,
+      "description": "Botines de cuero para mujer, ideales para invierno.",
+      "image": "https://i.pinimg.com/236x/5f/9a/5d/5f9a5db80e89e30f64528c4a37a52e96.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Pantalones Vaqueros",
+      "price": 45.99,
+      "description": "Pantalones vaqueros de corte slim fit, resistentes y cómodos.",
+      "image": "https://i.pinimg.com/236x/54/8c/f3/548cf3ca32b7b920ba47682398d86a2e.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Sudadera Unisex",
+      "price": 34.99,
+      "description": "Sudadera con capucha unisex, disponible en varios colores.",
+      "image": "https://i.pinimg.com/236x/29/1e/7c/291e7ce7f53b9b53b679a188fa6655d8.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Bolso Bandolera",
+      "price": 29.99,
+      "description": "Bolso bandolera práctico y moderno, con varios compartimentos.",
+      "image": "https://i.pinimg.com/236x/96/7d/47/967d477c7f9301766115c410e7cf3e1e.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Zapatos Formales Hombre",
+      "price": 69.99,
+      "description": "Zapatos de cuero formales para hombre, perfectos para la oficina.",
+      "image": "https://i.pinimg.com/236x/a2/42/6c/a2426cb2555109aa0ad0f8876d2d7011.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Chaqueta de Invierno",
+      "price": 120.00,
+      "description": "Chaqueta de invierno acolchada para mujer, resistente al agua.",
+      "image": "https://i.pinimg.com/236x/01/f2/66/01f266855a4714dc07fb012dfcbdaf6c.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Gafas de Sol",
+      "price": 19.99,
+      "description": "Gafas de sol unisex con protección UV400.",
+      "image": "https://i.pinimg.com/236x/95/76/e4/9576e46b53f1e5d36393ad401200d42a.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Bolso Tote",
+      "price": 55.99,
+      "description": "Bolso tote espacioso y elegante, hecho de lona resistente.",
+      "image": "https://i.pinimg.com/236x/36/be/83/36be8363c66df75bd6bbabaa8033075d.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Sombrero de Verano",
+      "price": 25.00,
+      "description": "Sombrero de verano de ala ancha, perfecto para la playa.",
+      "image": "https://i.pinimg.com/236x/9e/5a/09/9e5a090a7f4aafaf18d479a101473d7f.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Bufanda de Lana",
+      "price": 22.99,
+      "description": "Bufanda de lana suave y cálida, disponible en varios colores.",
+      "image": "https://i.pinimg.com/236x/3f/1c/7c/3f1c7c292a7d159fc0a228fc4dcde76b.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Mochila Casual",
+      "price": 40.99,
+      "description": "Mochila casual de lona, ideal para llevar al trabajo o escuela.",
+      "image": "https://i.pinimg.com/236x/be/bc/ab/bebcab3dca8aa1b541b63aa13bcce4d1.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Falda Plisada",
+      "price": 35.50,
+      "description": "Falda plisada midi para mujer, perfecta para un look casual.",
+      "image": "https://i.pinimg.com/236x/2b/0c/d2/2b0cd2b407f9e24a5dc631b73d80ed9b.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Cinturón de Cuero",
+      "price": 18.99,
+      "description": "Cinturón de cuero genuino con hebilla metálica.",
+      "image": "https://i.pinimg.com/236x/a4/f1/5b/a4f15b6931dedc780b53759f4a813f89.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Abrigo Largo Mujer",
+      "price": 150.00,
+      "description": "Abrigo largo de lana para mujer, ideal para el invierno.",
+      "image": "https://i.pinimg.com/474x/0a/ee/79/0aee7900a090f06f44eac290c8658c4b.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Zapatos Planos Mujer",
+      "price": 44.99,
+      "description": "Zapatos planos de cuero para mujer, cómodos y elegantes.",
+      "image": "https://i.pinimg.com/236x/27/bd/5e/27bd5e83bdc1d1c4a5b8461cb9e19a79.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Cartera de Cuero",
+      "price": 24.99,
+      "description": "Cartera de cuero genuino con múltiples compartimentos.",
+      "image": "https://i.pinimg.com/236x/88/f1/10/88f1109c90e5a75809005301e95e7d39.jpg"
+    }
+  ]
+  
